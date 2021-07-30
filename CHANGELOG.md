@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/extracoding/animated-fiesta/compare/v1.0.0...v1.0.1) (2021-07-30)
+
+
+### Bug Fixes
+
+* Extra line was deleted ([9c9bb1c](https://github.com/extracoding/animated-fiesta/commit/9c9bb1c430f8dfe94d209bab5172c29ed9cbcbd3))
+
 # 1.0.0 (2021-07-30)
 
 
